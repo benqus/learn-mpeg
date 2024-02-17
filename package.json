@@ -1,0 +1,16 @@
+{
+  "name": "mpeg-atoms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx tsx index.ts",
+    "play": "npx tsx watch index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.5"
+  }
+}
